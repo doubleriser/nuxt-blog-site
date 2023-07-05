@@ -1,4 +1,4 @@
-## Family Tree 365 - Open Source Family Tree Software - Nuxt and Vue Client
+## Nuxt and Vue Client
 ![Latest Stable Version](https://img.shields.io/github/release/familytree365/frontend.svg) 
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/familytree365/frontend/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/familytree365/frontend/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/familytree365/frontend/badges/build.png?b=master)](https://scrutinizer-ci.com/g/familytree365/frontend/build-status/master)
@@ -36,9 +36,6 @@ own family tree by importing your existing data or manual data entry. Storage of
 not leave your environment without your permission. In the future there will be optional
 smart matching with other servers. This is the Nuxt and Vue frontend, see the backend repository for the Laravel 8 backend API support.
 
-## Demo
-
-https://www.familytree365.com - register a free account
 
 ### Thanks
 
@@ -63,6 +60,4 @@ Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com
 <a href="https://opencollective.com/genealogy#backers" target="_blank"><img src="https://opencollective.com/genealogy/backers.svg?width=890"></a>
 
 
-## Sponsors
 
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/genealogy#sponsor)]
